@@ -1,0 +1,16 @@
+Bumper left 17
+Bumper rigth 4
+LED Green 3
+LED red	2
+Motor 1 22 & 24
+Motor 2 23 & 25
+
+scripot that holds the code: app.py
+
+
+Start with :
+
+uvicorn app:app --host 0.0.0.0 --port 8000
+
+
+
